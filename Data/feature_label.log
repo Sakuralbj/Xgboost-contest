@@ -1,0 +1,746 @@
+new_family:
+           0 NO
+           1 YES
+provcd16:
+         -10 Undecidable
+          -9 Missing
+          -8 Not applicable
+          -2 Refuse
+          -1 Unknown
+          11 Beijing
+          12 Tianjin
+          13 Hebei
+          14 Shanxi
+          15 Inner mongolia
+          21 Liaoning
+          22 Jilin
+          23 Heilongjiang
+          31 Shanghai
+          32 Jiangsu
+          33 Zhejiang
+          34 Anhui
+          35 Fujian
+          36 Jiangxi
+          37 Shandong
+          41 Henan
+          42 Hubei
+          43 Hunan
+          44 Guangdong
+          45 Guangxi Zhuang Autonomous Region
+          46 Hainan
+          50 Chongqing
+          51 Sichuan
+          52 Guizhou
+          53 Yunnan
+          54 Tibet
+          61 Shaanxi
+          62 Gansu
+          63 Qinghai
+          64 Ningxia Hui Autonomous
+          65 Xinjiang Uygur Autonomous Region
+          99 Missing
+urban16:
+         -10 Undecidable
+          -9 Missing
+          -8 Not applicable
+          -2 Refuse
+          -1 Unknown
+           0 Rural
+           1 Urban
+iwmode:
+         -10 Undecidable
+          -9 Missing
+          -8 Not applicable
+          -2 Refuse
+          -1 Unknown
+           1 CAPI
+           2 CATI
+cfps2014_interv:
+         -10 Undecidable
+          -9 Missing
+          -8 Not applicable
+          -2 Refuse
+          -1 Unknown
+           0 Never had a completed interview
+           1 Completed interview in 2014
+           5 Completed interview prior to 2014, but not in 2014
+fml2016_count:
+         -10 Undecidable
+          -9 Missing
+          -8 Not applicable
+          -2 Refuse
+          -1 Unknown
+           1 1
+           2 2
+           3 3
+           4 4-7
+           5 8++
+tape:
+         -10 Undecidable
+          -9 Missing
+          -8 Not applicable
+          -2 Refuse
+          -1 Unknown
+           1 Yes
+           5 No
+          79 Situation does not apply
+cyear:
+          -9 Missing
+          -8 Not Allication
+          -2 Refuse
+          -1 Not Known
+           1 1 year ago
+           2 2 years ago
+        2010 2010
+        2011 2011
+        2012 2012
+        2013 2013
+        2014 2014
+        2015 2015
+        2016 2016
+        2017 2017
+fa101:
+         -10 Undecidable
+          -9 Missing
+          -8 Not applicable
+          -2 Refuse
+          -1 Unknown
+           1 Residential Community (Ju wei hui)
+           5 Village (Cun wei hui)
+fk1l:
+         -10 Undecidable
+          -9 Missing
+          -8 Not applicable
+          -2 Refuse
+          -1 Unknown
+           1 Yes
+           5 No
+          79 Situation does not apply
+fl3:
+         -10 Undecidable
+          -9 Missing
+          -8 Not applicable
+          -2 Refuse
+          -1 Unknown
+           1 Yes
+           5 No
+          79 Situation does not apply
+fm1:
+         -10 Undecidable
+          -9 Missing
+          -8 Not applicable
+          -2 Refuse
+          -1 Unknown
+           1 Yes
+           5 No
+          79 Situation does not apply
+fn100:
+         -10 Undecidable
+          -9 Missing
+          -8 Not applicable
+          -2 Refuse
+          -1 Unknown
+           1 Yes
+           5 No
+          79 Situation does not apply
+fn2:
+         -10 Undecidable
+          -9 Missing
+          -8 Not applicable
+          -2 Refuse
+          -1 Unknown
+           1 Yes
+           5 No
+          79 Situation does not apply
+fn3:
+         -10 Undecidable
+          -9 Missing
+          -8 Not applicable
+          -2 Refuse
+          -1 Unknown
+           0 Data missing
+           1 Yes
+           5 No
+          79 Situation does not apply
+fo1:
+         -10 Undecidable
+          -9 Missing
+          -8 Not applicable
+          -2 Refuse
+          -1 Unknown
+           1 Yes
+           5 No
+          79 Situation does not apply
+fo5_1:
+         -10 Undecidable
+          -9 Missing
+          -8 Not applicable
+          -2 Refuse
+          -1 Unknown
+           1 Yes
+           5 No
+          79 Situation does not apply
+fo5_2:
+         -10 Undecidable
+          -9 Missing
+          -8 Not applicable
+          -2 Refuse
+          -1 Unknown
+           1 Yes
+           5 No
+          79 Situation does not apply
+fp2:
+         -10 Undecidable
+          -9 Missing
+          -8 Not applicable
+          -2 Refuse
+          -1 Unknown
+           1 1
+           2 2
+           3 3
+           4 4-7
+           5 8++
+fp511:
+         -10 Undecidable
+          -9 Missing
+          -8 Not applicable
+          -2 Refuse
+          -1 Unknown
+           0 0
+           1 1
+           2 2
+fq1:
+         -10 Undecidable
+          -9 Missing
+          -8 Not applicable
+          -2 Refuse
+          -1 Unknown
+           1 Yes
+           5 No
+          79 Situation does not apply
+fq2:
+         -10 Undecidable
+          -9 Missing
+          -8 Not applicable
+          -2 Refuse
+          -1 Unknown
+           1 Property right solely owned by the family member
+           2 Property right partly owned by the family member
+           3 Public house (gong fang) 
+           4 Cheap rental house
+           5 Public rental house
+           6  Commercial house rentable 
+           7  Friends or relatives
+          77 Other 
+fq8:
+         -10 Undecidable
+          -9 Missing
+          -8 Not applicable
+          -2 Refuse
+          -1 Unknown
+           1 No
+           3 Larger
+           5 Smaller
+fr1:
+         -10 Undecidable
+          -9 Missing
+          -8 Not applicable
+          -2 Refuse
+          -1 Unknown
+           1 Yes
+           5 No
+          79 Situation does not apply
+fr5:
+         -10 Undecidable
+          -9 Missing
+          -8 Not applicable
+          -2 Refuse
+          -1 Unknown
+           1 Yes
+           5 No
+          79 Situation does not apply
+fr6:
+         -10 Undecidable
+          -9 Missing
+          -8 Not applicable
+          -2 Refuse
+          -1 Unknown
+           1 Yes
+           5 No
+          79 Situation does not apply
+fs2:
+         -10 Undecidable
+          -9 Missing
+          -8 Not applicable
+          -2 Refuse
+          -1 Unknown
+           1 Yes
+           5 No
+          79 Situation does not apply
+fs3:
+         -10 Undecidable
+          -9 Missing
+          -8 Not applicable
+          -2 Refuse
+          -1 Unknown
+           1 Yes
+           5 No
+          79 Situation does not apply
+fs4:
+         -10 Undecidable
+          -9 Missing
+          -8 Not applicable
+          -2 Refuse
+          -1 Unknown
+           1 Yes
+           5 No
+          79 Situation does not apply
+fs5:
+         -10 Undecidable
+          -9 Missing
+          -8 Not applicable
+          -2 Refuse
+          -1 Unknown
+           1 Yes
+           5 No
+          79 Situation does not apply
+fs8:
+         -10 Undecidable
+          -9 Missing
+          -8 Not applicable
+          -2 Refuse
+          -1 Unknown
+           0 0
+           1 1-10
+           2 11-20
+           3 21-50
+           4 51-100
+           5 101-500
+           6 501-1000
+           7 1001+
+ft1:
+         -10 Undecidable
+          -9 Missing
+          -8 Not applicable
+          -2 Refuse
+          -1 Unknown
+           0 0
+           1 1
+           2 2
+           3 3
+           4 4
+ft200:
+         -10 Undecidable
+          -9 Missing
+          -8 Not applicable
+          -2 Refuse
+          -1 Unknown
+           1 Yes
+           5 No
+          79 Situation does not apply
+ft3:
+         -10 Undecidable
+          -9 Missing
+          -8 Not applicable
+          -2 Refuse
+          -1 Unknown
+           1 Yes
+           5 No
+          79 Situation does not apply
+ft5:
+         -10 Undecidable
+          -9 Missing
+          -8 Not applicable
+          -2 Refuse
+          -1 Unknown
+           1 Yes
+           5 No
+          79 Situation does not apply
+ft6:
+         -10 Undecidable
+          -9 Missing
+          -8 Not applicable
+          -2 Refuse
+          -1 Unknown
+           1 Yes
+           5 No
+          79 Situation does not apply
+ft7:
+         -10 Undecidable
+          -9 Missing
+          -8 Not applicable
+          -2 Refuse
+          -1 Unknown
+           0 Parents or children
+           1  Relatives 
+           2  Friends
+           3  Bank 
+           4 Formal financial institution other than bank
+           5  Individual or private loan institution
+           6 Will not borrow money under any condition 
+ft8:
+         -10 Undecidable
+          -9 Missing
+          -8 Not applicable
+          -2 Refuse
+          -1 Unknown
+           0 Data missing
+           1 Yes
+           5 No
+          79 Situation does not apply
+ft9:
+         -10 Undecidable
+          -9 Missing
+          -8 Not applicable
+          -2 Refuse
+          -1 Unknown
+           1 Yes
+           5 No
+          79 Situation does not apply
+finc:
+         -10 Undecidable
+          -9 Missing
+          -8 Not applicable
+          -2 Refuse
+          -1 Unknown
+           0 0
+           1 1
+           2 2
+           3 3
+fexp:
+         -10 Undecidable
+          -9 Missing
+          -8 Not applicable
+          -2 Refuse
+          -1 Unknown
+           0 0
+           1 1
+           2 2
+           3 3
+fz103:
+         -10 Undecidable
+          -9 Missing
+          -8 Not applicable
+          -2 Refuse
+          -1 Unknown
+           1 Mandarin Chinese
+           5 Chinese dialect
+fz201:
+         -10 Undecidable
+          -9 Missing
+          -8 Not applicable
+          -2 Refuse
+          -1 Unknown
+           1 1
+           2 2
+           3 3
+           4 4
+           5 5
+           6 6
+           7 7
+fz202:
+         -10 Undecidable
+          -9 Missing
+          -8 Not applicable
+          -2 Refuse
+          -1 Unknown
+           1 1
+           2 2
+           3 3
+           4 4
+           5 5
+           6 6
+           7 7
+fz206:
+         -10 Undecidable
+          -9 Missing
+          -8 Not applicable
+          -2 Refuse
+          -1 Unknown
+           1 1
+           2 2
+           3 3
+           4 4
+           5 5
+           6 6
+           7 7
+fz207:
+         -10 Undecidable
+          -9 Missing
+          -8 Not applicable
+          -2 Refuse
+          -1 Unknown
+           1 1
+           2 2
+           3 3
+           4 4
+           5 5
+           6 6
+           7 7
+fz208:
+         -10 Undecidable
+          -9 Missing
+          -8 Not applicable
+          -2 Refuse
+          -1 Unknown
+           1 1
+           2 2
+           3 3
+           4 4
+           5 5
+           6 6
+           7 7
+fz209:
+         -10 Undecidable
+          -9 Missing
+          -8 Not applicable
+          -2 Refuse
+          -1 Unknown
+           1 1
+           2 2
+           3 3
+           4 4
+           5 5
+           6 6
+           7 7
+fz210:
+         -10 Undecidable
+          -9 Missing
+          -8 Not applicable
+          -2 Refuse
+          -1 Unknown
+           1 1
+           2 2
+           3 3
+           4 4
+           5 5
+           6 6
+           7 7
+fz211:
+         -10 Undecidable
+          -9 Missing
+          -8 Not applicable
+          -2 Refuse
+          -1 Unknown
+           1 1
+           2 2
+           3 3
+           4 4
+           5 5
+           6 6
+           7 7
+fz212:
+         -10 Undecidable
+          -9 Missing
+          -8 Not applicable
+          -2 Refuse
+          -1 Unknown
+           1 1
+           2 2
+           3 3
+           4 4
+           5 5
+           6 6
+           7 7
+fz5:
+         -10 Undecidable
+          -9 Missing
+          -8 Not applicable
+          -2 Refuse
+          -1 Unknown
+           1 1
+           2 2
+           3 3
+           4 4
+           5 5
+           6 6
+           7 7
+fhz1:
+         -10 Undecidable
+          -9 Missing
+          -8 Not applicable
+          -2 Refuse
+          -1 Unknown
+           1 Apartment in a building 
+           2 Bungalow 
+           3 Quadrangle courtyard 
+           4 Villa
+           5 Condominium villa
+           6 Low-rise house
+          77 Other 
+fhz2:
+         -10 Undecidable
+          -9 Missing
+          -8 Not applicable
+          -2 Refuse
+          -1 Unknown
+           1 1
+           2 2
+           3 3
+           4 4
+           5 5
+           6 6
+           7 7
+fhz3:
+         -10 Undecidable
+          -9 Missing
+          -8 Not applicable
+          -2 Refuse
+          -1 Unknown
+           1 1
+           2 2
+           3 3
+           4 4
+           5 5
+           6 6
+           7 7
+fhz4:
+         -10 Undecidable
+          -9 Missing
+          -8 Not applicable
+          -2 Refuse
+          -1 Unknown
+           1 1
+           2 2
+           3 3
+           4 4
+           5 5
+           6 6
+           7 7
+fhz5:
+         -10 Undecidable
+          -9 Missing
+          -8 Not applicable
+          -2 Refuse
+          -1 Unknown
+           1 1
+           2 2
+           3 3
+           4 4
+           5 5
+           6 6
+           7 7
+overlapfid1type:
+         -10 Undecidable
+          -9 Missing
+          -8 Not applicable
+          -2 Refuse
+          -1 Unknown
+           1 family member list of the related household
+           2 fid16 has some overlapping family members
+           3 fid16 is a subset of the related household
+           4 the related household is a subset of fid16
+total_asset:
+         -12 -12
+         -11 -11
+         -10 Undecidable
+          -9 Missing
+          -8 Not applicable
+          -2 Refuse
+          -1 Unknown
+           0 missing
+           1 1
+           2 2
+           3 3
+           4 4
+           5 5
+           6 6
+           7 7
+fwage_1:
+         -10 Undecidable
+          -9 Missing
+          -8 Not applicable
+          -2 Refuse
+          -1 Unknown
+           0 No
+           1 Less
+           2 Mid
+           3 High
+fincome1_per_p:
+         -10 Undecidable
+          -9 Missing
+          -8 Not applicable
+          -2 Refuse
+          -1 Unknown
+           1 Lowest 25%
+           2 Lower 25%
+           3 Upper 25%
+           4 Highest 25%
+fincome2_per_p:
+         -10 Undecidable
+          -9 Missing
+          -8 Not applicable
+          -2 Refuse
+          -1 Unknown
+           1 Lowest 25%
+           2 Lower 25%
+           3 Upper 25%
+           4 Highest 25%
+subpopulation:
+         -10 Undecidable
+          -9 Missing
+          -8 Not applicable
+          -2 Refuse
+          -1 Unknown
+           1 Shanghai subpopulation
+           2 Liaoning subpopulation
+           3 Henan subpopulation
+           4 Gansu subpopulation
+           5 Guangdong subpopulation
+           6 Other province subpopulation
+subsample:
+         -10 Undecidable
+          -9 Missing
+          -8 Not applicable
+          -2 Refuse
+          -1 Unknown
+           0 No
+           1 Yes
+          79 Situation does not apply
+familysize16:
+         -10 Undecidable
+          -9 Missing
+          -8 Not applicable
+          -2 Refuse
+          -1 Unknown
+           1 1
+           2 2
+           3 3
+           4 4
+           5 5
+marriage:
+          -9 missing
+           0 NO
+           1 YES
+work_nature:
+          -9 missing
+           0 NO
+           1 agri
+tele:
+          -9 missing
+           0 NO
+           1 YES
+health:
+          -9 missing
+           0 NO
+           1 YES
+highest_edu:
+          -9 Missing
+           1 Illiterate/Semi-literate
+           2 Primary school
+           3 Junior high school
+           4 Senior high school
+           5 3-year college
+           6 4-year college/Bachelor's degree
+           7 Master's degree
+           8 Doctoral degree
+           9 No need to go to school
+num_child:
+           0 NO
+           1 1
+           2 2
+           3 3+
+min_child:
+         -10 Not Applicable
+           1 0-6
+           2 7-18
